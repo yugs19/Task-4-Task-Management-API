@@ -1,0 +1,10 @@
+bin/
+obj/
+.vs/
+.vscode/
+.idea/
+*.user
+*.suo
+tasks.db
+tasks.db-shm
+tasks.db-wal
